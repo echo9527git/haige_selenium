@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>my forms</title>
+</head>
+<body>
+
+<form action="javascript:alert('login')">
+    用户名：<input type="text" name="username" id="username"><br>
+    密码：<input type="password" name="pwd" id="pwd"><br>
+    <hr>
+    游泳:<input type="checkbox" name="swiming" value="swiming"><br>
+    阅读:<input type="checkbox" name="reading" value="reading"><br>
+    <hr>
+    性别:<br>
+    男：<input type="radio" name="gender" value="male"><br>
+    女：<input type="radio" name="gender" value="female"><br>
+
+    <hr>
+    省份:<select name="provise" id="provise" multiple>
+            <option value="bj">北京</option>
+            <option value="tj">天津</option>
+            <option value="sh">上海</option>
+            <option value="sz">深圳</option>
+            <option value="gz">广州</option>
+            <option value="hz">杭州</option>
+        </select>
+    <input type="submit" value="注册" id="submit">
+</form>
+<hr>
+<a href="javascript:alert('这是提示框！')" id="alert">Alert</a><br>
+<a href="javascript:confirm('真的要删除数据吗')" id="confirm">confirm</a><br>
+<a href="javascript:var age = prompt('请输入年龄');document.write(age)" id="prompt">Prompt</a><br>
+
+</body>
+</html>

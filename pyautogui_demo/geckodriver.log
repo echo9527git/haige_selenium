@@ -1,0 +1,1016 @@
+1596185716733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.deQzw1UPpnyy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596185723234	Marionette	INFO	Listening on port 54135
+1596185723727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596185752762	Marionette	INFO	Stopped listening on port 54135
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596185778656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.z6OMAx7oG9Wh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596185784627	Marionette	INFO	Listening on port 54197
+1596185785122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596185965643	Marionette	INFO	Stopped listening on port 54197
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+urce://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596185921038	Marionette	INFO	Listening on port 54277
+1596185921131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596185964656	Marionette	INFO	Stopped listening on port 54277
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596185979864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.rJdN9E0uvSqQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596185986136	Marionette	INFO	Listening on port 54339
+1596185986246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596185998749	Marionette	INFO	Stopped listening on port 54339
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596186017791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.HVRRGv9exzLx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596186023855	Marionette	INFO	Listening on port 54401
+1596186024068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596186041452	Marionette	INFO	Stopped listening on port 54401
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596186640219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.T3LmXnhMwyGr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596186646458	Marionette	INFO	Listening on port 64614
+1596186646611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596186661724	Marionette	INFO	Stopped listening on port 64614
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596186889100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.s0iPtWPqD5Xb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596186895058	Marionette	INFO	Listening on port 64789
+1596186895394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596187380780	Marionette	INFO	Stopped listening on port 64789
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.knRxhSOgjya2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596187303916	Marionette	INFO	Listening on port 64905
+1596187304283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596187317052	Marionette	INFO	Stopped listening on port 64905
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596187359465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.lHvPgG0V7shb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596187365983	Marionette	INFO	Listening on port 64972
+1596187366363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596187378990	Marionette	INFO	Stopped listening on port 64972
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596187401546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.uItAeMUlPcO9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596187407050	Marionette	INFO	Listening on port 65054
+1596187407428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596187421180	Marionette	INFO	Stopped listening on port 65054
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596187456710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.juwULKiVdPO0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596187463159	Marionette	INFO	Listening on port 65122
+1596187463592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596187480732	Marionette	INFO	Stopped listening on port 65122
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8436, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+1596259634916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.VlYl4F48fFOv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596259640723	Marionette	INFO	Listening on port 52420
+1596259640827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596259643554	Marionette	INFO	Stopped listening on port 52420
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596259659035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.er1XatG1ujzD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596259664182	Marionette	INFO	Listening on port 52478
+1596259664425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596259682177	Marionette	INFO	Stopped listening on port 52478
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596259836973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.iDd73KZ80pOj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596259842394	Marionette	INFO	Listening on port 52637
+1596259842944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596259866806	Marionette	INFO	Stopped listening on port 52637
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596259963693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.0SneEB5DjCEU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596259969401	Marionette	INFO	Listening on port 52843
+1596259969548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596259972150	Marionette	INFO	Stopped listening on port 52843
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596260044219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.QqVK7WW9KF1p"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596260049873	Marionette	INFO	Listening on port 52932
+1596260050094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596260062795	Marionette	INFO	Stopped listening on port 52932
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596260169459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.vPHEhY1ZGq0B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596260175775	Marionette	INFO	Listening on port 53081
+1596260175902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596260188672	Marionette	INFO	Stopped listening on port 53081
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596260199166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.r47AbcI4BKFl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596260205277	Marionette	INFO	Listening on port 53139
+1596260205502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596260217739	Marionette	INFO	Stopped listening on port 53139
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596260236387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.H7o9SmjkLWYX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596260242316	Marionette	INFO	Listening on port 53203
+1596260242737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596260254830	Marionette	INFO	Stopped listening on port 53203
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596261507062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.vldlLhCeNtIw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596261513133	Marionette	INFO	Listening on port 53465
+1596261513357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596261521757	Marionette	INFO	Stopped listening on port 53465
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596261563306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.9mNuzkrLL0C7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596261568968	Marionette	INFO	Listening on port 53537
+1596261569093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596261582266	Marionette	INFO	Stopped listening on port 53537
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596261703556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.OtTmBmlANFu9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596261708990	Marionette	INFO	Listening on port 53602
+1596261709345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596261712970	Marionette	INFO	Stopped listening on port 53602
+[Parent 8140, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596261793188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.1yPKRI8YGn65"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596261798969	Marionette	INFO	Listening on port 53662
+1596261799073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596261808131	Marionette	INFO	Stopped listening on port 53662
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596262045783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.bcXzRRvXae34"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596262051270	Marionette	INFO	Listening on port 53729
+1596262051588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596262062216	Marionette	INFO	Stopped listening on port 53729
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596262157279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.eTRmKYyLTM6J"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596262163011	Marionette	INFO	Listening on port 53793
+1596262163066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596262171690	Marionette	INFO	Stopped listening on port 53793
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596262214013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.EXrziRWhBw6a"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596262219753	Marionette	INFO	Listening on port 53846
+1596262219812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596262240447	Marionette	INFO	Stopped listening on port 53846
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596262291149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Lh99PqucDVX7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596262296751	Marionette	INFO	Listening on port 53910
+1596262297101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596262310527	Marionette	INFO	Stopped listening on port 53910
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596262444504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.FijnxQLEwhh4"
+1596262454262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.zlmG2SmM2WoT"
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1596262459821	Marionette	INFO	Listening on port 53983
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1596262460063	Marionette	WARN	TLS certificate errors will be ignored for this session
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1596262469937	Marionette	INFO	Stopped listening on port 53983
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596262494003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.NQEAsLfqiE09"
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1596262499477	Marionette	INFO	Listening on port 54051
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1596262499819	Marionette	WARN	TLS certificate errors will be ignored for this session
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1596262546563	Marionette	INFO	Stopped listening on port 54051
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596262577063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.beUlxNFU3Rll"
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1596262582023	Marionette	INFO	Listening on port 54114
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1596262582421	Marionette	WARN	TLS certificate errors will be ignored for this session
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1596262592605	Marionette	INFO	Stopped listening on port 54114
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'safemon64.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
