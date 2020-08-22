@@ -8,7 +8,7 @@ get_screenshot_as_png():获取当前屏幕截图的二进制文件数据；
 """
 from selenium import webdriver
 from time import sleep
-from js_demo import my_utils
+from js_demo import my_js_utils
 class TestScreenshot():
     def setup(self):
         self.driver = webdriver.Firefox()
@@ -18,7 +18,7 @@ class TestScreenshot():
     def test_screenshot(self):
         self.driver.find_element_by_id('kw').send_keys('selenium')
         su = self.driver.find_element_by_id('su')
-        my_utils.save_screenshot(self.driver,'su',su,'百度搜索')
+        my_js_utils.save_screenshot(self.driver, 'su', su, '百度搜索')
         sleep(2)
         su.click()
         sleep(5)

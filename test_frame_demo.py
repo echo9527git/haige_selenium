@@ -7,7 +7,7 @@ frame标签有frameset、frame、iframe三种，frameset和普通标签没有区
 """
 from selenium import webdriver
 from time import sleep
-from js_demo import my_utils
+from js_demo import my_js_utils
 
 class TestFrame():
     def setup(self):
@@ -17,7 +17,7 @@ class TestFrame():
     def test_frame(self):
         self.driver.switch_to.frame('top')
         fram1_link = self.driver.find_element_by_xpath('/html/body/table/tbody/tr/td[1]/a[1]')
-        my_utils.save_screenshot(self.driver,'fram1_link',fram1_link,'上一个fram1_link')
+        my_js_utils.save_screenshot(self.driver, 'fram1_link', fram1_link, '上一个fram1_link')
         fram1_link.click()
         sleep(5)
 
@@ -25,7 +25,7 @@ class TestFrame():
         fram2 = self.driver.find_element_by_xpath('/html/frameset/frame[2]')
         self.driver.switch_to.frame(fram2)
         fram2_form = self.driver.find_element_by_xpath('/html/body/table/tbody/tr/td[1]/a[2]')
-        my_utils.save_screenshot(self.driver, 'fram2_form', fram2_form, '下一个fram2_form')
+        my_js_utils.save_screenshot(self.driver, 'fram2_form', fram2_form, '下一个fram2_form')
         fram2_form.click()
         sleep(5)
 

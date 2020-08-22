@@ -15,7 +15,7 @@
 
 from selenium import webdriver
 import pyautogui
-from js_demo import my_utils
+from js_demo import my_js_utils
 from time import sleep
 
 class TestPyautoGui():
@@ -25,21 +25,25 @@ class TestPyautoGui():
         self.driver.maximize_window()
 
     def test_case1(self):
-        my_utils.click(self.driver,".custom-control")
+        my_js_utils.click(self.driver, ".custom-control")
         ele = self.driver.find_element_by_xpath('/html/body/main/div/div/form/div[6]/div')
         sleep(2)
-        my_utils.height_lig(self.driver,ele)
+        my_js_utils.height_lig(self.driver, ele)
         sleep(10)
         self.driver.quit()
 
     def test_click(self):
 
-        ele = self.driver.find_element_by_id('agree')
-        rect = ele.rect
-        # {'x': 463.5, 'y': 564.61669921875, 'width': 18.0, 'height': 23.25}
-        print(rect)
-        # pyautogui.click(rect['x']+10,rect['y']+120)
-        pyautogui.click(rect['x'],rect['y'])
+        # ele = self.driver.find_element_by_id('agree')
+        # rect = ele.rect
+        # # {'x': 463.5, 'y': 564.61669921875, 'width': 18.0, 'height': 23.25}
+        # print(rect)
+        # # pyautogui.click(rect['x']+10,rect['y']+120)
+        # pyautogui.click(rect['x'],rect['y'])
+        # sleep(3)
+
+        css = '.custom-control-label'
+        my_js_utils.click(self.driver,css)
         sleep(3)
 
     def test_position(self):

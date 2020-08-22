@@ -192,4 +192,13 @@ def save_screenshot(driver: webdriver,sub_filename,element,describe=None):
     st = strftime("%Y-%m-%d-%H-%M-%S",localtime(time()))
     file_name = name+st+'-'+sub_filename+describe+".png"
     height_lig(driver,element)
-    driver.save_screenshot(file_name);
+    driver.save_screenshot(file_name)
+
+def get_window_performance_time(driver:webdriver):
+    """
+    获取页面的加载时间，用于h5、web页面启动性能分析
+    :param driver: webdriver对象
+    :return: 页面的加载时间
+    """
+    time = driver.execute_script("return JSON.stringify(window.performance.timing)")
+    return time
